@@ -1,6 +1,6 @@
 Hi 👋, I'm Jigar Jansari  
 💡 A cybersecurity learner focused on practical security and hands-on labs  
-🌐 Explore My Portfolio  
+🌐 Explore My Portfolio : https://jansari9110.github.io/Portfolio/#
 
 ---
 
@@ -12,7 +12,7 @@ Hi 👋, I'm Jigar Jansari
 - 🧪 Practicing through hands-on security labs and real-world scenarios  
 - 🤝 Open to collaborating on beginner-friendly security or learning projects  
 - 💬 Ask me about Linux basics, networking fundamentals, and security labs  
-- 📫 Reach me at: your-email@example.com  
+- 📫 Reach me at: jigarjansari98700@gmail.com  
 - ⚡ Fun fact: I break things in labs so I can learn how to secure them
 
 ---
